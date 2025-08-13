@@ -2,17 +2,17 @@
 
 const textConfig = {
     text1: "hello chồng iu",
-    text2: "Chúc cậu một ngày thật vui^^",
-    text3: "cậu có muốn nhận quà không ._.",
+    text2: "Chúc em một ngày thật vui^^",
+    text3: "em có muốn nhận quà không ._.",
     text4: "Nhớ suy nghĩ kĩ rồi chọn nhé :v",
     text5: "Ai thèm nhận quà chứ!",
     text6: "nhận quà",
-    text7: "Viết gì đó về anh đi (10 từ)",
+    text7: "Viết gì đó về chị đi (10 từ)",
     text8: "Gửi",
-    text9: "Hôm nay em xinh quá đi <33",
-    text10: "em biết mà ^^",
+    text9: "Hôm nay chị xinh quá đi <33",
+    text10: "chị biết mà ^^",
     text11:
-      "Cảm ơn anh vì đã thành thật =))",
+      "Cảm ơn em vì đã thành thật =))",
     text12: "Okii nhận quà thôi <3",
   };
   
@@ -157,3 +157,4 @@ const textConfig = {
     });
 
   });
+
